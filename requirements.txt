@@ -5,3 +5,12 @@ langchain_core
 langchain_community
 streamlit
 langchain-groq
+pypdf
+bs4
+arxiv
+langchain-text-splitters
+chromadb
+faiss-cpu
+langchain-huggingface
+ipykernel
+langchain_chroma
